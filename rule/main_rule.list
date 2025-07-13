@@ -1,14 +1,5 @@
-DOMAIN-SUFFIX,e-hentai.org
-DOMAIN-KEYWORD,e-hentai
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,moegirl.org.cn
-DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN,bahamut.akamaized.net
-DOMAIN,gamer-cds.cdn.hinet.net
-DOMAIN,gamer2-cds.cdn.hinet.net
-DOMAIN-SUFFIX,bahamut.com.tw
+# Main
+
 DOMAIN-SUFFIX,msys2.org
 DOMAIN-SUFFIX,wxw.moe
 DOMAIN-SUFFIX,eacg.net
@@ -65,7 +56,4 @@ DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,closechat.org
 DOMAIN-SUFFIX,libsdl.org
 DOMAIN-SUFFIX,crystalmark.info
-DOMAIN-SUFFIX,hohoj.tv
-DOMAIN-SUFFIX,melonbooks.co.jp
-DOMAIN-KEYWORD,melonbooks
 DOMAIN-SUFFIX,hohoj.tv
