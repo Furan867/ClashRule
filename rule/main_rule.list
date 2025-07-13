@@ -57,3 +57,5 @@ DOMAIN-SUFFIX,closechat.org
 DOMAIN-SUFFIX,libsdl.org
 DOMAIN-SUFFIX,crystalmark.info
 DOMAIN-SUFFIX,hohoj.tv
+
+DOMAIN,____end_main_rule_list____
